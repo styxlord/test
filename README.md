@@ -21,4 +21,3 @@ This is is test of **strong emphasis**.
 ## Links
 
 [github](http://github.com)
-[slashdot](http://slashdot.org)
